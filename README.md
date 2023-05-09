@@ -329,7 +329,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## ON:
 
-![output](https://github.com/Nagajyothichinta/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/main/k.png) 
+![output](https://github.com/Nagajyothichinta/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/f3ee51798723b7f9c7875b2c500f74d31c6c9da7/k.png) 
 
 
 
