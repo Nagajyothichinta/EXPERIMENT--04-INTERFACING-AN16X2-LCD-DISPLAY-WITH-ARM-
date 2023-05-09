@@ -329,19 +329,23 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## ON:
 
-![output](<img width="542" alt="k" src="https://github.com/Nagajyothichinta/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94191344/021f4107-f177-4d4b-9be1-0aaed5f75f35">) 
+<img width="542" alt="k" src="https://github.com/Nagajyothichinta/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94191344/44dad327-6f87-4b15-820e-91f1eecae842">
+
 
 
 
 ## OFF:
 
-![output](https://github.com/Nagajyothichinta/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/7746fec6ece317079de892b712144b6d088b8646/j1.png)
+<img width="466" alt="j1" src="https://github.com/Nagajyothichinta/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94191344/495c57e9-d904-47ea-a153-77037ff09892">
+
 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- ![output](https://github.com/Nagajyothichinta/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/7746fec6ece317079de892b712144b6d088b8646/a.png)
+ <img width="545" alt="a" src="https://github.com/Nagajyothichinta/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94191344/f10dc1b6-3276-4120-b364-92ff399fd530">
+
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
